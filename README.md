@@ -1,4 +1,4 @@
-This is an assignment for academic purpose in Games and AI course
+This is an assignment for academic purpose at **Games and AI** course
 
 Exercise on physics, steering behaviors and bird flocking without using any implemented Physics from unity 
 
